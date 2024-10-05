@@ -114,6 +114,9 @@ Table of Contents
 :root {
     --bringer-border-mask: linear-gradient(#000, #000) content-box content-box, linear-gradient(#000, #000);
 }
+.justifyData{
+    text-align: justify
+}
 body,
 html {
    padding: 0;
